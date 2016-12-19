@@ -1,0 +1,38 @@
+[
+  {
+   "id":1,
+   "name" : "Bob",
+   "designation" :"Software Developer",
+   "experience" :"5 Months"
+   },
+  {
+   "id":2,
+   "name" : "Alice",
+   "designation" :"Software Developer",
+   "experience" :"5 Months"
+   },
+  {
+   "id":3,
+   "name" : "Eve",
+   "designation" :"Assistant Manager",
+   "experience" :"10 Years"
+   },
+  {
+   "id":4,
+   "name" : "Adam",
+   "designation" :"Senior Developer",
+   "experience" :"8 Years"
+   },
+  {
+   "id":5,
+   "name" : "Steve",
+   "designation" :"Quality Assurance",
+   "experience" :"8 Years"
+   },
+  {
+   "id":6,
+   "name" : "Maria",
+   "designation" :"Front End Developer",
+   "experience" :"8 Years"
+   }
+ ]
